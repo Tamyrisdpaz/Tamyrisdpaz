@@ -4,6 +4,7 @@
 - 🌱 Estou começando programação
 - 💞️ tenho conhecimento básico em javascript e 
      Scratch
+
 -📫 Email de contato: tamyris.d.paz@gmail.com
 
 <!---
